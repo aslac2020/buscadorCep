@@ -4,7 +4,7 @@
 
 Projeto BUSCADOR DE CEP  - You tube
 
-Consiste em um usuario digitar um numero, no qual ele irá buscar na api e mostrará o resultado do cep digitado.
+Consiste em um cep digitar um numero, no qual ele irá buscar na api e mostrará o resultado do cep digitado.
 A soma, é a media dos numeros.
 ## Layout web
 ![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/Buscador%20Cep.PNG)
