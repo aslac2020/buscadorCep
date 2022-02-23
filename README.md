@@ -9,7 +9,8 @@ A soma, é a media dos numeros.
 ## Layout web
 ![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/Buscador%20Cep.PNG)
 
-
+# Hospedagem
+https://aslac2020-buscadorcep.netlify.app
 
 # Tecnologias utilizadas
 
